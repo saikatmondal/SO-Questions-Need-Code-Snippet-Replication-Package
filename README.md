@@ -1,6 +1,6 @@
 # Can We Identify Stack Overflow Questions Requiring Code Snippets? Investigating the Cause & Effect of Missing Code Snippets
 
-** Abstract ** On the Stack Overflow (SO) Q&A site, users often request solutions to their code-related problems (e.g., errors, unexpected behavior). Unfortunately, they often miss required code snippets during their question submission. Such a practice could prevent their questions from getting prompt and appropriate answers. 
+**Abstract** On the Stack Overflow (SO) Q&A site, users often request solutions to their code-related problems (e.g., errors, unexpected behavior). Unfortunately, they often miss required code snippets during their question submission. Such a practice could prevent their questions from getting prompt and appropriate answers. 
 In this study, we conduct an empirical study investigating the cause & effect of missing code snippets in SO questions whenever required. 
 In this paper, our contributions are threefold.
 First, we analyze how the presence or absence of required code snippets in SO questions affects the correlation between question types (missed code, included code after requests & had code snippets during submission) and corresponding answer meta-data, such as the presence of an accepted answer.
